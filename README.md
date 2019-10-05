@@ -1,2 +1,1 @@
-# FinalProject
-A major Lifestyle
+# MajorLifestyle_Project3
